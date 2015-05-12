@@ -1,6 +1,6 @@
 {
-    "name": "Khimich/hello-world",
-    "description": "My first Composer project",
+    "name": "MariyaKhimich/hello-world",
+    "description": "siple test town classes package",
     "authors": [
         {
             "name": "MariyaKhimich",
@@ -8,14 +8,21 @@
         }
     ],
     "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": ["class_8_1.php"]
+    }
+}
 
-    "autoload": 
-	"class_8_1.php"
-	
+
+
+
+
+
 	
 
   
             
         
     
-}
+
