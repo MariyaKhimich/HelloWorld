@@ -8,20 +8,14 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.3.0"
-    },
-    "autoload": [
+
+    "autoload": 
 	"class_8_1.php"
 	
-	],
-	"repositories":[
-        {
-            "type":"git",
-            "url":"http://github.com/MariyaKhimich/HelloWorld"
-        },
+	
+
   
             
         
-    ]
+    
 }
