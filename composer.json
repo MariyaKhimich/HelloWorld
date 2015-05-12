@@ -1,0 +1,16 @@
+
+{
+    "name": "MariyaKhimich/hello-world",
+    "description": "siple test town classes package",
+    "authors": [
+        {
+            "name": "MariyaKhimich",
+            "email": "gutefrau@ukr.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": ["class_8_1.php"]
+    }
+}
